@@ -3,8 +3,8 @@
 ## **Project Overview**
 This project is part of the **Quantium Virtual Internship**, where I analyzed retail transaction data to derive insights into customer purchasing behavior and assess the impact of a targeted marketing trial. The project is divided into two tasks:  
 
-- **Task 1: Customer Analytics** – Analyzed purchasing behavior, identified key customer segments, and examined the impact of affluence on spending habits.  
-- **Task 2: Experiment Analysis** – Assessed the effectiveness of a marketing trial by comparing sales performance between trial and control stores.  
+- [**Task 1: Customer Analytics**](https://github.com/rohithmx11/Quantium-retail-analysis/blob/main/Quantium_Task1.ipynb) – Analyzed purchasing behavior, identified key customer segments, and examined the impact of affluence on spending habits.  
+- [**Task 2: Experiment Analysis**](https://github.com/rohithmx11/Quantium-retail-analysis/blob/main/quantium_task2.ipynb) – Assessed the effectiveness of a marketing trial by comparing sales performance between trial and control stores.  
 
 ## **Key Objectives**
 - **Customer Insights:** Understand consumer purchasing behavior based on affluence and lifestage.  
